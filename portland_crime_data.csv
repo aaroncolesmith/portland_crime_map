@@ -7391,3 +7391,147 @@ id,title,subtitle,href,rel,updated,name,email,icon,summary,category,published,po
 						<dt>Last Updated:</dt>
 						<dd>4/16/22 2:58:10 AM PDT</dd>
 					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100710","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 4300 N INTERSTATE AVE, PORT",,,,2022-04-16T04:04:17.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 4300 N INTERSTATE AVE, PORT [Portland Police #PP22000100710]",,2022-04-16T03:53:15.0-07:00,45.555100 -122.682689,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100710</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>4300 N INTERSTATE AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 4:04:17 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PG22000013892","UNWANTED PERSON at 1200 NE 6TH ST, GRSM",,,,2022-04-16T03:53:58.0-07:00,,,,"UNWANTED PERSON at 1200 NE 6TH ST, GRSM [Gresham Police #PG22000013892]",,2022-04-16T03:46:07.0-07:00,45.501701 -122.419802,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013892</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>1200 NE 6TH ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:53:58 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100700","AREA CHECK at 8500 SE STEELE ST, PORT",,,,2022-04-16T03:43:04.0-07:00,,,,"AREA CHECK at 8500 SE STEELE ST, PORT [Portland Police #PP22000100700]",,2022-04-16T03:42:38.0-07:00,45.484786 -122.575550,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100700</dd>
+						<dt>Call Type:</dt>
+						<dd>AREA CHECK</dd>
+						<dt>Address:</dt>
+						<dd>8500 SE STEELE ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:43:04 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PG22000013893","SHOTS FIRED at 500 NE 8TH ST, GRSM",,,,2022-04-16T03:47:38.0-07:00,,,,"SHOTS FIRED at 500 NE 8TH ST, GRSM [Gresham Police #PG22000013893]",,2022-04-16T03:38:14.0-07:00,45.503089 -122.425674,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013893</dd>
+						<dt>Call Type:</dt>
+						<dd>SHOTS FIRED</dd>
+						<dt>Address:</dt>
+						<dd>500 NE 8TH ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:47:38 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PG22000013895","DISTURBANCE - PRIORITY at 2200 NE DIVISION ST, GRSM",,,,2022-04-16T03:57:38.0-07:00,,,,"DISTURBANCE - PRIORITY at 2200 NE DIVISION ST, GRSM [Gresham Police #PG22000013895]",,2022-04-16T03:35:42.0-07:00,45.505223 -122.409469,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013895</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>2200 NE DIVISION ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:57:38 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100698","UNWANTED PERSON at 500 SW OAK ST, PORT",,,,2022-04-16T03:35:08.0-07:00,,,,"UNWANTED PERSON at 500 SW OAK ST, PORT [Portland Police #PP22000100698]",,2022-04-16T03:28:33.0-07:00,45.521501 -122.676796,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100698</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>500 SW OAK ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:35:08 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100683","PARKING PROBLEM at SW 5TH AVE / SW OAK ST, PORT",,,,2022-04-16T03:22:51.0-07:00,,,,"PARKING PROBLEM at SW 5TH AVE / SW OAK ST, PORT [Portland Police #PP22000100683]",,2022-04-16T03:21:57.0-07:00,45.521472 -122.676132,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100683</dd>
+						<dt>Call Type:</dt>
+						<dd>PARKING PROBLEM</dd>
+						<dt>Address:</dt>
+						<dd>SW 5TH AVE / SW OAK ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:22:51 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100686","UNWANTED PERSON at 3800 SE 164TH AVE, PORT",,,,2022-04-16T03:20:13.0-07:00,,,,"UNWANTED PERSON at 3800 SE 164TH AVE, PORT [Portland Police #PP22000100686]",,2022-04-16T03:05:24.0-07:00,45.495047 -122.495361,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100686</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>3800 SE 164TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:20:13 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100691","THREAT - PRIORITY at 700 SW 6TH AVE, PORT",,,,2022-04-16T03:10:21.0-07:00,,,,"THREAT - PRIORITY at 700 SW 6TH AVE, PORT [Portland Police #PP22000100691]",,2022-04-16T03:00:48.0-07:00,45.518886 -122.679284,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100691</dd>
+						<dt>Call Type:</dt>
+						<dd>THREAT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>700 SW 6TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:10:21 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PG22000013890","UNWANTED PERSON at 16200 NE GLISAN ST, GRSM",,,,2022-04-16T03:07:58.0-07:00,,,,"UNWANTED PERSON at 16200 NE GLISAN ST, GRSM [Gresham Police #PG22000013890]",,2022-04-16T02:39:26.0-07:00,45.526931 -122.495728,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013890</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>16200 NE GLISAN ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:07:58 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/PP22000100662","THEFT - COLD at 500 NW 6TH AVE, PORT",,,,2022-04-16T03:28:58.0-07:00,,,,"THEFT - COLD at 500 NW 6TH AVE, PORT [Portland Police #PP22000100662]",,2022-04-16T02:29:16.0-07:00,45.527307 -122.676207,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100662</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>500 NW 6TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:28:58 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-16:cad-incidents/RP22000035432","POLREQ - POLICE REQUEST (DISPATCH/BALANCE) at 7600 N PENINSULAR AVE, PORT",,,,2022-04-16T03:15:30.0-07:00,,,,"POLREQ - POLICE REQUEST (DISPATCH/BALANCE) at 7600 N PENINSULAR AVE, PORT [Portland Fire #RP22000035432]",,2022-04-16T02:09:14.0-07:00,45.579016 -122.697007,"<dl>
+						<dt>ID:</dt>
+						<dd>RP22000035432</dd>
+						<dt>Call Type:</dt>
+						<dd>POLREQ - POLICE REQUEST (DISPATCH/BALANCE)</dd>
+						<dt>Address:</dt>
+						<dd>7600 N PENINSULAR AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Fire</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/16/22 3:15:30 AM PDT</dd>
+					</dl>"
