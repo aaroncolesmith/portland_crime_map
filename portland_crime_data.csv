@@ -4667,3 +4667,339 @@ id,title,subtitle,href,rel,updated,name,email,icon,summary,category,published,po
 						<dt>Last Updated:</dt>
 						<dd>4/15/22 8:35:06 PM PDT</dd>
 					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PG22000013837","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 1000 SE 21ST CT, GRSM",,,,2022-04-15T22:05:48.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 1000 SE 21ST CT, GRSM [Gresham Police #PG22000013837]",,2022-04-15T22:05:41.0-07:00,45.482056 -122.420577,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013837</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>1000 SE 21ST CT, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 10:05:48 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100407","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 6500 SE 82ND AVE, PORT",,,,2022-04-15T21:59:31.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 6500 SE 82ND AVE, PORT [Portland Police #PP22000100407]",,2022-04-15T21:59:01.0-07:00,45.475661 -122.578684,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100407</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>6500 SE 82ND AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:59:31 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100452","ACCIDENT - NON INJURY at SB I5 BRG AT / MIDSPAN, PORT",,,,2022-04-15T21:58:27.0-07:00,,,,"ACCIDENT - NON INJURY at SB I5 BRG AT / MIDSPAN, PORT [Portland Police #PP22000100452]",,2022-04-15T21:44:22.0-07:00,45.618184 -122.675329,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100452</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - NON INJURY</dd>
+						<dt>Address:</dt>
+						<dd>SB I5 BRG AT / MIDSPAN, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:58:27 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/RP22000035378","ALMCOM - MONITORED COMMERCIAL FIRE ALARM at 300 NW 19TH AVE, PORT",,,,2022-04-15T21:43:44.0-07:00,,,,"ALMCOM - MONITORED COMMERCIAL FIRE ALARM at 300 NW 19TH AVE, PORT [Portland Fire #RP22000035378]",,2022-04-15T21:35:07.0-07:00,45.525310 -122.690584,"<dl>
+						<dt>ID:</dt>
+						<dd>RP22000035378</dd>
+						<dt>Call Type:</dt>
+						<dd>ALMCOM - MONITORED COMMERCIAL FIRE ALARM</dd>
+						<dt>Address:</dt>
+						<dd>300 NW 19TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Fire</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:43:44 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100424","UNWANTED PERSON at 5300 SE FOSTER RD, PORT",,,,2022-04-15T21:43:33.0-07:00,,,,"UNWANTED PERSON at 5300 SE FOSTER RD, PORT [Portland Police #PP22000100424]",,2022-04-15T21:34:56.0-07:00,45.494908 -122.607601,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100424</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>5300 SE FOSTER RD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:43:33 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100446","THEFT - COLD at 6600 NE GLISAN ST, PORT",,,,2022-04-15T21:32:49.0-07:00,,,,"THEFT - COLD at 6600 NE GLISAN ST, PORT [Portland Police #PP22000100446]",,2022-04-15T21:31:40.0-07:00,45.526198 -122.594730,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100446</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>6600 NE GLISAN ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:32:49 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100376","ASSAULT - PRIORITY at SE 72ND AVE / SE POWELL BLVD, PORT",,,,2022-04-15T21:34:39.0-07:00,,,,"ASSAULT - PRIORITY at SE 72ND AVE / SE POWELL BLVD, PORT [Portland Police #PP22000100376]",,2022-04-15T21:26:30.0-07:00,45.497437 -122.589120,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100376</dd>
+						<dt>Call Type:</dt>
+						<dd>ASSAULT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>SE 72ND AVE / SE POWELL BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:34:39 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100444","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 5000 NE 101ST AVE, PORT",,,,2022-04-15T21:31:55.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 5000 NE 101ST AVE, PORT [Portland Police #PP22000100444]",,2022-04-15T21:26:22.0-07:00,45.559461 -122.558274,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100444</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>5000 NE 101ST AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:31:55 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100398","THEFT - COLD at SE 82ND AVE / SE HARNEY ST, PORT",,,,2022-04-15T21:24:27.0-07:00,,,,"THEFT - COLD at SE 82ND AVE / SE HARNEY ST, PORT [Portland Police #PP22000100398]",,2022-04-15T21:22:32.0-07:00,45.463306 -122.579047,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100398</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>SE 82ND AVE / SE HARNEY ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:24:27 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100438","DISTURBANCE - PRIORITY at NW EVERETT ST / NW 6TH AVE, PORT",,,,2022-04-15T21:33:56.0-07:00,,,,"DISTURBANCE - PRIORITY at NW EVERETT ST / NW 6TH AVE, PORT [Portland Police #PP22000100438]",,2022-04-15T21:17:14.0-07:00,45.525199 -122.676505,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100438</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>NW EVERETT ST / NW 6TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:33:56 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PG22000013827","ROBBERY - WITH WEAPON *H at 1600 NW FAIRVIEW DR, GRSM",,,,2022-04-15T21:57:43.0-07:00,,,,"ROBBERY - WITH WEAPON *H at 1600 NW FAIRVIEW DR, GRSM [Gresham Police #PG22000013827]",,2022-04-15T21:16:02.0-07:00,45.509572 -122.430260,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013827</dd>
+						<dt>Call Type:</dt>
+						<dd>ROBBERY - WITH WEAPON *H</dd>
+						<dt>Address:</dt>
+						<dd>1600 NW FAIRVIEW DR, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:57:43 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PG22000013826","SHOTS FIRED at NE DIVISION ST / NE CLEVELAND AVE, GRSM",,,,2022-04-15T21:29:52.0-07:00,,,,"SHOTS FIRED at NE DIVISION ST / NE CLEVELAND AVE, GRSM [Gresham Police #PG22000013826]",,2022-04-15T21:13:59.0-07:00,45.504782 -122.421077,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013826</dd>
+						<dt>Call Type:</dt>
+						<dd>SHOTS FIRED</dd>
+						<dt>Address:</dt>
+						<dd>NE DIVISION ST / NE CLEVELAND AVE, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:29:52 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100359","THEFT - COLD at 4800 NE GLISAN ST, PORT",,,,2022-04-15T21:18:10.0-07:00,,,,"THEFT - COLD at 4800 NE GLISAN ST, PORT [Portland Police #PP22000100359]",,2022-04-15T21:06:17.0-07:00,45.527297 -122.613666,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100359</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>4800 NE GLISAN ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:18:10 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100413","VEHICLE STOLEN - COLD at 7300 N HODGE AVE, PORT",,,,2022-04-15T21:12:16.0-07:00,,,,"VEHICLE STOLEN - COLD at 7300 N HODGE AVE, PORT [Portland Police #PP22000100413]",,2022-04-15T21:05:01.0-07:00,45.579397 -122.722703,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100413</dd>
+						<dt>Call Type:</dt>
+						<dd>VEHICLE STOLEN - COLD</dd>
+						<dt>Address:</dt>
+						<dd>7300 N HODGE AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:12:16 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100431","THEFT - PRIORITY at N CECELIA ST / N EXETER AVE, PORT",,,,2022-04-15T21:28:59.0-07:00,,,,"THEFT - PRIORITY at N CECELIA ST / N EXETER AVE, PORT [Portland Police #PP22000100431]",,2022-04-15T21:00:47.0-07:00,45.592748 -122.722140,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100431</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>N CECELIA ST / N EXETER AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:28:59 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PG22000013821","DISTURBANCE - PRIORITY at 1100 NW 15TH ST, GRSM",,,,2022-04-15T21:09:25.0-07:00,,,,"DISTURBANCE - PRIORITY at 1100 NW 15TH ST, GRSM [Gresham Police #PG22000013821]",,2022-04-15T20:59:03.0-07:00,45.507131 -122.444239,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000013821</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1100 NW 15TH ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:09:25 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/RP22000035367","POLREQ - POLICE REQUEST (DISPATCH/BALANCE) at WB I84 FWY TO / LLOYD CENTER EXIT, PORT",,,,2022-04-15T21:41:43.0-07:00,,,,"POLREQ - POLICE REQUEST (DISPATCH/BALANCE) at WB I84 FWY TO / LLOYD CENTER EXIT, PORT [Portland Fire #RP22000035367]",,2022-04-15T20:55:17.0-07:00,45.529903 -122.647599,"<dl>
+						<dt>ID:</dt>
+						<dd>RP22000035367</dd>
+						<dt>Call Type:</dt>
+						<dd>POLREQ - POLICE REQUEST (DISPATCH/BALANCE)</dd>
+						<dt>Address:</dt>
+						<dd>WB I84 FWY TO / LLOYD CENTER EXIT, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Fire</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:41:43 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100241","VANDALISM - COLD at 7500 SE HENDERSON ST, PORT",,,,2022-04-15T21:33:34.0-07:00,,,,"VANDALISM - COLD at 7500 SE HENDERSON ST, PORT [Portland Police #PP22000100241]",,2022-04-15T20:54:50.0-07:00,45.469669 -122.585510,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100241</dd>
+						<dt>Call Type:</dt>
+						<dd>VANDALISM - COLD</dd>
+						<dt>Address:</dt>
+						<dd>7500 SE HENDERSON ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:33:34 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100429","SHOTS FIRED at 8700 N SWENSON ST, PORT",,,,2022-04-15T21:09:56.0-07:00,,,,"SHOTS FIRED at 8700 N SWENSON ST, PORT [Portland Police #PP22000100429]",,2022-04-15T20:54:09.0-07:00,45.598897 -122.750224,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100429</dd>
+						<dt>Call Type:</dt>
+						<dd>SHOTS FIRED</dd>
+						<dt>Address:</dt>
+						<dd>8700 N SWENSON ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:09:56 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100414","UNWANTED PERSON at 1400 SE 122ND AVE, PORT",,,,2022-04-15T22:04:46.0-07:00,,,,"UNWANTED PERSON at 1400 SE 122ND AVE, PORT [Portland Police #PP22000100414]",,2022-04-15T20:46:12.0-07:00,45.513398 -122.538052,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100414</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>1400 SE 122ND AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 10:04:46 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100363","ACCIDENT - HIT AND RUN - COLD at 2100 NW 18TH AVE, PORT",,,,2022-04-15T21:15:35.0-07:00,,,,"ACCIDENT - HIT AND RUN - COLD at 2100 NW 18TH AVE, PORT [Portland Police #PP22000100363]",,2022-04-15T20:34:52.0-07:00,45.539702 -122.689789,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100363</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - HIT AND RUN - COLD</dd>
+						<dt>Address:</dt>
+						<dd>2100 NW 18TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:15:35 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100403","DISTURBANCE - PRIORITY at 1400 SW 10TH AVE, PORT",,,,2022-04-15T21:40:40.0-07:00,,,,"DISTURBANCE - PRIORITY at 1400 SW 10TH AVE, PORT [Portland Police #PP22000100403]",,2022-04-15T20:25:31.0-07:00,45.515241 -122.685119,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100403</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1400 SW 10TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:40:40 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100388","THEFT - COLD at 800 SE 69TH AVE, PORT",,,,2022-04-15T21:31:15.0-07:00,,,,"THEFT - COLD at 800 SE 69TH AVE, PORT [Portland Police #PP22000100388]",,2022-04-15T20:24:19.0-07:00,45.517184 -122.592056,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100388</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>800 SE 69TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:31:15 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100267","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 1200 SE MORRISON ST, PORT",,,,2022-04-15T21:10:52.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 1200 SE MORRISON ST, PORT [Portland Police #PP22000100267]",,2022-04-15T20:20:01.0-07:00,45.516982 -122.652945,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100267</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>1200 SE MORRISON ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:10:52 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100390","ACCIDENT - UNKNOWN INJURY at EB I84 FWY AT / NE 12TH AVE, PORT",,,,2022-04-15T21:50:40.0-07:00,,,,"ACCIDENT - UNKNOWN INJURY at EB I84 FWY AT / NE 12TH AVE, PORT [Portland Police #PP22000100390]",,2022-04-15T20:13:20.0-07:00,45.528380 -122.653608,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100390</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - UNKNOWN INJURY</dd>
+						<dt>Address:</dt>
+						<dd>EB I84 FWY AT / NE 12TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:50:40 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100389","SUSPICIOUS - PRIORITY at 1400 N WINCHELL ST, PORT",,,,2022-04-15T21:09:55.0-07:00,,,,"SUSPICIOUS - PRIORITY at 1400 N WINCHELL ST, PORT [Portland Police #PP22000100389]",,2022-04-15T20:11:44.0-07:00,45.580841 -122.681390,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100389</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1400 N WINCHELL ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:09:55 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100373","UNWANTED PERSON at 16000 SE ALDER ST, PORT",,,,2022-04-15T21:59:45.0-07:00,,,,"UNWANTED PERSON at 16000 SE ALDER ST, PORT [Portland Police #PP22000100373]",,2022-04-15T20:04:00.0-07:00,45.516522 -122.498730,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100373</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>16000 SE ALDER ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:59:45 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-15:cad-incidents/PP22000100379","ROBBERY - WITH WEAPON *H at 3600 NE SANDY BLVD, PORT",,,,2022-04-15T21:28:09.0-07:00,,,,"ROBBERY - WITH WEAPON *H at 3600 NE SANDY BLVD, PORT [Portland Police #PP22000100379]",,2022-04-15T19:56:14.0-07:00,45.533139 -122.626396,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000100379</dd>
+						<dt>Call Type:</dt>
+						<dd>ROBBERY - WITH WEAPON *H</dd>
+						<dt>Address:</dt>
+						<dd>3600 NE SANDY BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/15/22 9:28:09 PM PDT</dd>
+					</dl>"
