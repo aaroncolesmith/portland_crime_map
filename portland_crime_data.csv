@@ -25067,3 +25067,195 @@ id,title,subtitle,href,rel,updated,name,email,icon,summary,category,published,po
 						<dt>Last Updated:</dt>
 						<dd>4/18/22 6:27:13 PM PDT</dd>
 					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/RP22000036383","PUBAST - PUBLIC ASSIST at 4600 N MINNESOTA AVE, PORT",,,,2022-04-18T20:02:47.0-07:00,,,,"PUBAST - PUBLIC ASSIST at 4600 N MINNESOTA AVE, PORT [Portland Fire #RP22000036383]",,2022-04-18T19:55:44.0-07:00,45.556433 -122.679402,"<dl>
+						<dt>ID:</dt>
+						<dd>RP22000036383</dd>
+						<dt>Call Type:</dt>
+						<dd>PUBAST - PUBLIC ASSIST</dd>
+						<dt>Address:</dt>
+						<dd>4600 N MINNESOTA AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Fire</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 8:02:47 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103240","PREMISE CHECK at 14100 SE ELLIS ST, PORT",,,,2022-04-18T19:56:09.0-07:00,,,,"PREMISE CHECK at 14100 SE ELLIS ST, PORT [Portland Police #PP22000103240]",,2022-04-18T19:54:45.0-07:00,45.482623 -122.517584,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103240</dd>
+						<dt>Call Type:</dt>
+						<dd>PREMISE CHECK</dd>
+						<dt>Address:</dt>
+						<dd>14100 SE ELLIS ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:56:09 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103269","VEHICLE STOLEN - COLD at 9700 N PORTSMOUTH AVE, PORT",,,,2022-04-18T19:57:02.0-07:00,,,,"VEHICLE STOLEN - COLD at 9700 N PORTSMOUTH AVE, PORT [Portland Police #PP22000103269]",,2022-04-18T19:44:59.0-07:00,45.593442 -122.720729,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103269</dd>
+						<dt>Call Type:</dt>
+						<dd>VEHICLE STOLEN - COLD</dd>
+						<dt>Address:</dt>
+						<dd>9700 N PORTSMOUTH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:57:02 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103267","TRIMET INCIDENT - PRIORITY at 1200 BLOCK NE 102ND AVE, PORT",,,,2022-04-18T20:03:21.0-07:00,,,,"TRIMET INCIDENT - PRIORITY at 1200 BLOCK NE 102ND AVE, PORT [Portland Police #PP22000103267]",,2022-04-18T19:39:54.0-07:00,45.531673 -122.558019,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103267</dd>
+						<dt>Call Type:</dt>
+						<dd>TRIMET INCIDENT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1200 BLOCK NE 102ND AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 8:03:21 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PG22000014226","PDX - AED ACTIVATION at 1800 NW ORCHARD AVE, GRSM",,,,2022-04-18T19:58:33.0-07:00,,,,"PDX - AED ACTIVATION at 1800 NW ORCHARD AVE, GRSM [Gresham Police #PG22000014226]",,2022-04-18T19:37:06.0-07:00,45.510030 -122.448646,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000014226</dd>
+						<dt>Call Type:</dt>
+						<dd>PDX - AED ACTIVATION</dd>
+						<dt>Address:</dt>
+						<dd>1800 NW ORCHARD AVE, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:58:33 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103262","DISTURBANCE - PRIORITY at 4400 NE BROADWAY , PORT",,,,2022-04-18T19:39:08.0-07:00,,,,"DISTURBANCE - PRIORITY at 4400 NE BROADWAY , PORT [Portland Police #PP22000103262]",,2022-04-18T19:33:50.0-07:00,45.534852 -122.617738,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103262</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>4400 NE BROADWAY , PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:39:08 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103242","HAZARD - HAZARDOUS CONDITION at 5000 NE COLUMBIA BLVD, PORT",,,,2022-04-18T19:58:02.0-07:00,,,,"HAZARD - HAZARDOUS CONDITION at 5000 NE COLUMBIA BLVD, PORT [Portland Police #PP22000103242]",,2022-04-18T19:26:54.0-07:00,45.569751 -122.610854,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103242</dd>
+						<dt>Call Type:</dt>
+						<dd>HAZARD - HAZARDOUS CONDITION</dd>
+						<dt>Address:</dt>
+						<dd>5000 NE COLUMBIA BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:58:02 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103246","THEFT - PRIORITY at 10100 SE WASHINGTON ST, PORT",,,,2022-04-18T19:23:12.0-07:00,,,,"THEFT - PRIORITY at 10100 SE WASHINGTON ST, PORT [Portland Police #PP22000103246]",,2022-04-18T19:22:33.0-07:00,45.516589 -122.559553,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103246</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>10100 SE WASHINGTON ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:23:12 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103238","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 9000 NE MARTIN LUTHER KING JR BLVD, PORT",,,,2022-04-18T19:13:16.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 9000 NE MARTIN LUTHER KING JR BLVD, PORT [Portland Police #PP22000103238]",,2022-04-18T19:07:40.0-07:00,45.588478 -122.664788,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103238</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>9000 NE MARTIN LUTHER KING JR BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:13:16 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103229","THEFT - COLD at 11300 NE PRESCOTT ST, PORT",,,,2022-04-18T19:40:30.0-07:00,,,,"THEFT - COLD at 11300 NE PRESCOTT ST, PORT [Portland Police #PP22000103229]",,2022-04-18T19:02:06.0-07:00,45.555094 -122.545029,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103229</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>11300 NE PRESCOTT ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:40:30 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103236","AREA CHECK at SE 82ND AVE / SE DIVISION ST, PORT",,,,2022-04-18T19:11:44.0-07:00,,,,"AREA CHECK at SE 82ND AVE / SE DIVISION ST, PORT [Portland Police #PP22000103236]",,2022-04-18T19:00:28.0-07:00,45.504831 -122.578686,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103236</dd>
+						<dt>Call Type:</dt>
+						<dd>AREA CHECK</dd>
+						<dt>Address:</dt>
+						<dd>SE 82ND AVE / SE DIVISION ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:11:44 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103212","DISTURBANCE - PRIORITY at 1300 NW 23RD AVE, PORT",,,,2022-04-18T19:21:24.0-07:00,,,,"DISTURBANCE - PRIORITY at 1300 NW 23RD AVE, PORT [Portland Police #PP22000103212]",,2022-04-18T18:49:27.0-07:00,45.532026 -122.698834,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103212</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1300 NW 23RD AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:21:24 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103216","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at N WILLAMETTE BLVD / N CAREY BLVD, PORT",,,,2022-04-18T19:35:24.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at N WILLAMETTE BLVD / N CAREY BLVD, PORT [Portland Police #PP22000103216]",,2022-04-18T18:39:36.0-07:00,45.581948 -122.740030,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103216</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>N WILLAMETTE BLVD / N CAREY BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:35:24 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103213","HAZARD - HAZARDOUS CONDITION at SB I5 FWY NO / SW TERWILLIGER BLVD, PORT",,,,2022-04-18T19:45:37.0-07:00,,,,"HAZARD - HAZARDOUS CONDITION at SB I5 FWY NO / SW TERWILLIGER BLVD, PORT [Portland Police #PP22000103213]",,2022-04-18T18:36:39.0-07:00,45.470313 -122.684818,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103213</dd>
+						<dt>Call Type:</dt>
+						<dd>HAZARD - HAZARDOUS CONDITION</dd>
+						<dt>Address:</dt>
+						<dd>SB I5 FWY NO / SW TERWILLIGER BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:45:37 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PP22000103206","THREAT - WITH WEAPON *H at 10000 NE HALSEY ST, PORT",,,,2022-04-18T19:41:25.0-07:00,,,,"THREAT - WITH WEAPON *H at 10000 NE HALSEY ST, PORT [Portland Police #PP22000103206]",,2022-04-18T18:30:05.0-07:00,45.532200 -122.560326,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000103206</dd>
+						<dt>Call Type:</dt>
+						<dd>THREAT - WITH WEAPON *H</dd>
+						<dt>Address:</dt>
+						<dd>10000 NE HALSEY ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:41:25 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-18:cad-incidents/PG22000014207","ASSAULT - PRIORITY at 1300 SW PLEASANT VIEW DR, GRSM",,,,2022-04-18T19:19:32.0-07:00,,,,"ASSAULT - PRIORITY at 1300 SW PLEASANT VIEW DR, GRSM [Gresham Police #PG22000014207]",,2022-04-18T16:37:56.0-07:00,45.487644 -122.466772,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000014207</dd>
+						<dt>Call Type:</dt>
+						<dd>ASSAULT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1300 SW PLEASANT VIEW DR, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/18/22 7:19:32 PM PDT</dd>
+					</dl>"
