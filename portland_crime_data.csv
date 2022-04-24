@@ -63791,3 +63791,87 @@ id,title,subtitle,href,rel,updated,name,email,icon,summary,category,published,po
 						<dt>Last Updated:</dt>
 						<dd>4/24/22 5:50:26 AM PDT</dd>
 					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PG22000014937","THREAT - PRIORITY at 1500 NE BURNSIDE RD, GRSM",,,,2022-04-24T07:06:37.0-07:00,,,,"THREAT - PRIORITY at 1500 NE BURNSIDE RD, GRSM [Gresham Police #PG22000014937]",,2022-04-24T06:50:42.0-07:00,45.504040 -122.415757,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000014937</dd>
+						<dt>Call Type:</dt>
+						<dd>THREAT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1500 NE BURNSIDE RD, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 7:06:37 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PG22000014936","SUSPICIOUS - PRIORITY at 300 SE 205TH PL, GRSM",,,,2022-04-24T07:02:01.0-07:00,,,,"SUSPICIOUS - PRIORITY at 300 SE 205TH PL, GRSM [Gresham Police #PG22000014936]",,2022-04-24T06:38:42.0-07:00,45.520272 -122.451183,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000014936</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>300 SE 205TH PL, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 7:02:01 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PP22000108313","ACCIDENT - INJURY at SE 28TH AVE / SE STARK ST, PORT",,,,2022-04-24T06:37:33.0-07:00,,,,"ACCIDENT - INJURY at SE 28TH AVE / SE STARK ST, PORT [Portland Police #PP22000108313]",,2022-04-24T06:29:10.0-07:00,45.519311 -122.637083,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000108313</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - INJURY</dd>
+						<dt>Address:</dt>
+						<dd>SE 28TH AVE / SE STARK ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 6:37:33 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PP22000108311","PREMISE CHECK at 2800 NE RIVERSIDE WAY, PORT",,,,2022-04-24T06:46:29.0-07:00,,,,"PREMISE CHECK at 2800 NE RIVERSIDE WAY, PORT [Portland Police #PP22000108311]",,2022-04-24T06:28:21.0-07:00,45.580288 -122.636469,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000108311</dd>
+						<dt>Call Type:</dt>
+						<dd>PREMISE CHECK</dd>
+						<dt>Address:</dt>
+						<dd>2800 NE RIVERSIDE WAY, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 6:46:29 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PP22000108227","VEHICLE STOLEN - COLD at 3900 SE 140TH PL, PORT",,,,2022-04-24T06:20:10.0-07:00,,,,"VEHICLE STOLEN - COLD at 3900 SE 140TH PL, PORT [Portland Police #PP22000108227]",,2022-04-24T05:52:29.0-07:00,45.493868 -122.519337,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000108227</dd>
+						<dt>Call Type:</dt>
+						<dd>VEHICLE STOLEN - COLD</dd>
+						<dt>Address:</dt>
+						<dd>3900 SE 140TH PL, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 6:20:10 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PG22000014921","ACCIDENT - INJURY at 4600 NE 190TH LN, GRSM",,,,2022-04-24T06:18:44.0-07:00,,,,"ACCIDENT - INJURY at 4600 NE 190TH LN, GRSM [Gresham Police #PG22000014921]",,2022-04-24T03:18:55.0-07:00,45.556112 -122.466837,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000014921</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - INJURY</dd>
+						<dt>Address:</dt>
+						<dd>4600 NE 190TH LN, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 6:18:44 AM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-24:cad-incidents/PP22000108204","AREA CHECK at SE 117TH AVE / SE STARK ST, PORT",,,,2022-04-24T06:33:56.0-07:00,,,,"AREA CHECK at SE 117TH AVE / SE STARK ST, PORT [Portland Police #PP22000108204]",,2022-04-24T02:11:33.0-07:00,45.518996 -122.542929,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000108204</dd>
+						<dt>Call Type:</dt>
+						<dd>AREA CHECK</dd>
+						<dt>Address:</dt>
+						<dd>SE 117TH AVE / SE STARK ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/24/22 6:33:56 AM PDT</dd>
+					</dl>"
