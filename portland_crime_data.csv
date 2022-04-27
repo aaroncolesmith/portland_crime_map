@@ -82127,3 +82127,327 @@ id,title,subtitle,href,rel,updated,name,email,icon,summary,category,published,po
 						<dt>Last Updated:</dt>
 						<dd>4/26/22 9:19:53 PM PDT</dd>
 					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110824","THEFT - PRIORITY at 1400 NW JOHNSON ST, PORT",,,,2022-04-26T23:05:52.0-07:00,,,,"THEFT - PRIORITY at 1400 NW JOHNSON ST, PORT [Portland Police #PP22000110824]",,2022-04-26T23:05:36.0-07:00,45.528730 -122.685622,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110824</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>1400 NW JOHNSON ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 11:05:52 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110867","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 3700 SE 34TH AVE, PORT",,,,2022-04-26T23:03:01.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 3700 SE 34TH AVE, PORT [Portland Police #PP22000110867]",,2022-04-26T22:56:53.0-07:00,45.495649 -122.629553,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110867</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>3700 SE 34TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 11:03:01 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PG22000015315","DISTURBANCE - WITH WEAPON *H at 700 E POWELL BLVD, GRSM",,,,2022-04-26T23:04:31.0-07:00,,,,"DISTURBANCE - WITH WEAPON *H at 700 E POWELL BLVD, GRSM [Gresham Police #PG22000015315]",,2022-04-26T22:56:51.0-07:00,45.497635 -122.423254,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000015315</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - WITH WEAPON *H</dd>
+						<dt>Address:</dt>
+						<dd>700 E POWELL BLVD, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 11:04:31 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PG22000015313","AREA CHECK at 3600 W POWELL LOOP, GRSM",,,,2022-04-26T23:09:01.0-07:00,,,,"AREA CHECK at 3600 W POWELL LOOP, GRSM [Gresham Police #PG22000015313]",,2022-04-26T22:52:33.0-07:00,45.488956 -122.468034,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000015313</dd>
+						<dt>Call Type:</dt>
+						<dd>AREA CHECK</dd>
+						<dt>Address:</dt>
+						<dd>3600 W POWELL LOOP, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 11:09:01 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110856","VANDALISM - COLD at 12100 E BURNSIDE ST, PORT",,,,2022-04-26T22:47:51.0-07:00,,,,"VANDALISM - COLD at 12100 E BURNSIDE ST, PORT [Portland Police #PP22000110856]",,2022-04-26T22:40:59.0-07:00,45.522716 -122.538305,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110856</dd>
+						<dt>Call Type:</dt>
+						<dd>VANDALISM - COLD</dd>
+						<dt>Address:</dt>
+						<dd>12100 E BURNSIDE ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:47:51 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110912","UNWANTED PERSON at 0 NW BROADWAY , PORT",,,,2022-04-26T23:00:00.0-07:00,,,,"UNWANTED PERSON at 0 NW BROADWAY , PORT [Portland Police #PP22000110912]",,2022-04-26T22:39:14.0-07:00,45.523314 -122.677264,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110912</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>0 NW BROADWAY , PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 11:00:00 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110767","ACCIDENT - HIT & RUN - PRIORITY at NE 122ND AVE / NE GLISAN ST, PORT",,,,2022-04-26T22:44:24.0-07:00,,,,"ACCIDENT - HIT & RUN - PRIORITY at NE 122ND AVE / NE GLISAN ST, PORT [Portland Police #PP22000110767]",,2022-04-26T22:38:23.0-07:00,45.526292 -122.537750,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110767</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - HIT & RUN - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>NE 122ND AVE / NE GLISAN ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:44:24 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110906","UNWANTED PERSON at 200 N FREMONT ST, PORT",,,,2022-04-26T22:55:16.0-07:00,,,,"UNWANTED PERSON at 200 N FREMONT ST, PORT [Portland Police #PP22000110906]",,2022-04-26T22:36:28.0-07:00,45.548592 -122.668526,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110906</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>200 N FREMONT ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:55:16 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110872","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 3600 SE 33RD AVE, PORT",,,,2022-04-26T22:43:03.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 3600 SE 33RD AVE, PORT [Portland Police #PP22000110872]",,2022-04-26T22:36:14.0-07:00,45.496181 -122.631808,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110872</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>3600 SE 33RD AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:43:03 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110894","SUSPICIOUS - PRIORITY at 800 NE 81ST AVE, PORT",,,,2022-04-26T22:33:09.0-07:00,,,,"SUSPICIOUS - PRIORITY at 800 NE 81ST AVE, PORT [Portland Police #PP22000110894]",,2022-04-26T22:32:08.0-07:00,45.529064 -122.579800,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110894</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>800 NE 81ST AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:33:09 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110786","THEFT - COLD at 6500 N DENVER AVE, PORT",,,,2022-04-26T22:38:10.0-07:00,,,,"THEFT - COLD at 6500 N DENVER AVE, PORT [Portland Police #PP22000110786]",,2022-04-26T22:31:39.0-07:00,45.570303 -122.687150,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110786</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>6500 N DENVER AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:38:10 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110914","DISTURBANCE - WITH WEAPON *H at 6200 SE 44TH AVE, PORT",,,,2022-04-26T22:46:25.0-07:00,,,,"DISTURBANCE - WITH WEAPON *H at 6200 SE 44TH AVE, PORT [Portland Police #PP22000110914]",,2022-04-26T22:30:54.0-07:00,45.477305 -122.617232,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110914</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - WITH WEAPON *H</dd>
+						<dt>Address:</dt>
+						<dd>6200 SE 44TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:46:25 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110909","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 4200 SE 136TH AVE, PORT",,,,2022-04-26T22:43:01.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 4200 SE 136TH AVE, PORT [Portland Police #PP22000110909]",,2022-04-26T22:29:56.0-07:00,45.491497 -122.524312,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110909</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>4200 SE 136TH AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:43:01 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110857","UNWANTED PERSON at 6200 SE MILWAUKIE AVE, PORT",,,,2022-04-26T22:29:00.0-07:00,,,,"UNWANTED PERSON at 6200 SE MILWAUKIE AVE, PORT [Portland Police #PP22000110857]",,2022-04-26T22:27:32.0-07:00,45.478077 -122.648960,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110857</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>6200 SE MILWAUKIE AVE, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:29:00 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110904","ASSAULT - COLD at 13400 SE DIVISION ST, PORT",,,,2022-04-26T22:39:48.0-07:00,,,,"ASSAULT - COLD at 13400 SE DIVISION ST, PORT [Portland Police #PP22000110904]",,2022-04-26T22:23:24.0-07:00,45.503519 -122.524838,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110904</dd>
+						<dt>Call Type:</dt>
+						<dd>ASSAULT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>13400 SE DIVISION ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:39:48 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110891","SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 8300 SE HOLGATE BLVD, PORT",,,,2022-04-26T22:46:54.0-07:00,,,,"SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE at 8300 SE HOLGATE BLVD, PORT [Portland Police #PP22000110891]",,2022-04-26T22:21:18.0-07:00,45.490015 -122.577543,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110891</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS SUBJ, VEH, OR CIRCUMSTANCE</dd>
+						<dt>Address:</dt>
+						<dd>8300 SE HOLGATE BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:46:54 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110883","UNWANTED PERSON at 12100 NE GLISAN ST, PORT",,,,2022-04-26T22:40:51.0-07:00,,,,"UNWANTED PERSON at 12100 NE GLISAN ST, PORT [Portland Police #PP22000110883]",,2022-04-26T22:20:02.0-07:00,45.526628 -122.538168,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110883</dd>
+						<dt>Call Type:</dt>
+						<dd>UNWANTED PERSON</dd>
+						<dt>Address:</dt>
+						<dd>12100 NE GLISAN ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:40:51 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110874","ACCIDENT - HIT AND RUN - COLD at 3300 SW SPRING GARDEN ST, PORT",,,,2022-04-26T22:35:52.0-07:00,,,,"ACCIDENT - HIT AND RUN - COLD at 3300 SW SPRING GARDEN ST, PORT [Portland Police #PP22000110874]",,2022-04-26T22:07:30.0-07:00,45.463294 -122.711780,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110874</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - HIT AND RUN - COLD</dd>
+						<dt>Address:</dt>
+						<dd>3300 SW SPRING GARDEN ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:35:52 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PG22000015310","DISTURBANCE - PRIORITY at 3100 NW DIVISION ST, GRSM",,,,2022-04-26T22:25:21.0-07:00,,,,"DISTURBANCE - PRIORITY at 3100 NW DIVISION ST, GRSM [Gresham Police #PG22000015310]",,2022-04-26T22:00:23.0-07:00,45.503614 -122.464859,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000015310</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>3100 NW DIVISION ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:25:21 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110882","SUSPICIOUS - WITH WEAPON *H at 700 NE MADRONA ST, PORT",,,,2022-04-26T22:38:42.0-07:00,,,,"SUSPICIOUS - WITH WEAPON *H at 700 NE MADRONA ST, PORT [Portland Police #PP22000110882]",,2022-04-26T21:51:48.0-07:00,45.572398 -122.657599,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110882</dd>
+						<dt>Call Type:</dt>
+						<dd>SUSPICIOUS - WITH WEAPON *H</dd>
+						<dt>Address:</dt>
+						<dd>700 NE MADRONA ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:38:42 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110848","DISTURBANCE - PRIORITY at 9000 NE MARTIN LUTHER KING JR BLVD, PORT",,,,2022-04-26T22:51:49.0-07:00,,,,"DISTURBANCE - PRIORITY at 9000 NE MARTIN LUTHER KING JR BLVD, PORT [Portland Police #PP22000110848]",,2022-04-26T21:42:05.0-07:00,45.588143 -122.662157,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110848</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>9000 NE MARTIN LUTHER KING JR BLVD, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:51:49 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110873","DISTURBANCE - PRIORITY at SE 117TH AVE / SE LINCOLN ST, PORT",,,,2022-04-26T22:53:03.0-07:00,,,,"DISTURBANCE - PRIORITY at SE 117TH AVE / SE LINCOLN ST, PORT [Portland Police #PP22000110873]",,2022-04-26T21:35:53.0-07:00,45.507867 -122.542805,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110873</dd>
+						<dt>Call Type:</dt>
+						<dd>DISTURBANCE - PRIORITY</dd>
+						<dt>Address:</dt>
+						<dd>SE 117TH AVE / SE LINCOLN ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:53:03 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110862","THEFT - COLD at SE 52ND AVE / SE FLAVEL ST, PORT",,,,2022-04-26T22:44:50.0-07:00,,,,"THEFT - COLD at SE 52ND AVE / SE FLAVEL ST, PORT [Portland Police #PP22000110862]",,2022-04-26T21:30:20.0-07:00,45.468637 -122.610007,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110862</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>SE 52ND AVE / SE FLAVEL ST, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:44:50 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110800","ROBBERY - COLD at 4600 NE ROYAL CT, PORT",,,,2022-04-26T22:31:49.0-07:00,,,,"ROBBERY - COLD at 4600 NE ROYAL CT, PORT [Portland Police #PP22000110800]",,2022-04-26T21:05:07.0-07:00,45.528298 -122.615464,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110800</dd>
+						<dt>Call Type:</dt>
+						<dd>ROBBERY - COLD</dd>
+						<dt>Address:</dt>
+						<dd>4600 NE ROYAL CT, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:31:49 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110743","ACCIDENT - HIT AND RUN - COLD at NE HALSEY ST / I205 FWY, PORT",,,,2022-04-26T22:22:07.0-07:00,,,,"ACCIDENT - HIT AND RUN - COLD at NE HALSEY ST / I205 FWY, PORT [Portland Police #PP22000110743]",,2022-04-26T20:53:02.0-07:00,45.534133 -122.564522,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110743</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - HIT AND RUN - COLD</dd>
+						<dt>Address:</dt>
+						<dd>NE HALSEY ST / I205 FWY, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:22:07 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PP22000110815","THEFT - COLD at 4900 N MCCOY CT, PORT",,,,2022-04-26T22:37:08.0-07:00,,,,"THEFT - COLD at 4900 N MCCOY CT, PORT [Portland Police #PP22000110815]",,2022-04-26T20:40:16.0-07:00,45.587330 -122.717969,"<dl>
+						<dt>ID:</dt>
+						<dd>PP22000110815</dd>
+						<dt>Call Type:</dt>
+						<dd>THEFT - COLD</dd>
+						<dt>Address:</dt>
+						<dd>4900 N MCCOY CT, PORT</dd>
+						<dt>Agency:</dt>
+						<dd>Portland Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:37:08 PM PDT</dd>
+					</dl>"
+"tag:portlandoregon.gov,2022-04-26:cad-incidents/PG22000015297","ACCIDENT - UNKNOWN INJURY at SE 172ND AVE / E BURNSIDE ST, GRSM",,,,2022-04-26T22:24:51.0-07:00,,,,"ACCIDENT - UNKNOWN INJURY at SE 172ND AVE / E BURNSIDE ST, GRSM [Gresham Police #PG22000015297]",,2022-04-26T20:35:07.0-07:00,45.522000 -122.486149,"<dl>
+						<dt>ID:</dt>
+						<dd>PG22000015297</dd>
+						<dt>Call Type:</dt>
+						<dd>ACCIDENT - UNKNOWN INJURY</dd>
+						<dt>Address:</dt>
+						<dd>SE 172ND AVE / E BURNSIDE ST, GRSM</dd>
+						<dt>Agency:</dt>
+						<dd>Gresham Police</dd>
+						<dt>Last Updated:</dt>
+						<dd>4/26/22 10:24:51 PM PDT</dd>
+					</dl>"
