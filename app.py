@@ -7,7 +7,7 @@ pio.templates.default = "simple_white"
 
 
 st.set_page_config(
-    page_title='aaroncolesmith.com',
+    page_title='Portland Crime Map',
     page_icon='dog'
     )
 
